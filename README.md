@@ -1,0 +1,8 @@
+## Repositório de Estudo
+
+**Olá! Seja bem vindo ao meu repositório onde estão parte dos meus estudos.**
+O intuito desse repo é gravar o que estudei para não perder e poder rever meus códigos 
+em qualquer lugar.
+
+Bem simples.
+Thank you :D
